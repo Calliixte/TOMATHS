@@ -491,11 +491,11 @@ texture = SubResource("GradientTexture1D_2bo0a")
 position = Vector2(-295, 168)
 
 [node name="Tuto" type="Label" parent="Door5"]
-offset_left = -8.0
+offset_left = -22.0
 offset_top = -73.0
-offset_right = 26.0
+offset_right = 35.0
 offset_bottom = -50.0
-text = "Tuto
+text = "Tutoriel
 "
 label_settings = SubResource("LabelSettings_b134w")
 

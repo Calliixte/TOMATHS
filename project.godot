@@ -11,7 +11,11 @@ config_version=5
 [application]
 
 config/name="TOMATHS"
+<<<<<<< HEAD
 run/main_scene="res://Characters_scenes/splash_screen.tscn"
+=======
+run/main_scene="res://Characters_scenes/level.tscn"
+>>>>>>> 018db64236b149be237ec248ade9d8e6ffe80711
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://Sprites/tomate.png"
 

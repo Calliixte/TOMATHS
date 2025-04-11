@@ -480,3 +480,5 @@ stream = ExtResource("16_6y7hj")
 stream = ExtResource("17_ffvv6")
 
 [connection signal="pressed" from="Pause/Tuto" to="." method="_on_tuto_pressed"]
+[connection signal="pressed" from="Pause/Sortir" to="." method="_on_sortir_pressed"]
+[connection signal="pressed" from="Pause/Reprendre" to="." method="_on_reprendre_pressed"]
